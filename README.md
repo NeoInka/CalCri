@@ -1,2 +1,4 @@
-# CalCri
-Calculadora funcional para carga critica de pandeo
+# Carga critica 9.1/10
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Diego-Velasquez-caceres/pen/XWwVVPg](https://codepen.io/Diego-Velasquez-caceres/pen/XWwVVPg).
+
